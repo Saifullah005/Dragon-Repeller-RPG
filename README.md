@@ -24,9 +24,7 @@
 
 ## How to Play
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/Saifullah005/dragon-repeller-game.git
+1. Download the repository:
 
 2. Open index.html in your web browser.
 
