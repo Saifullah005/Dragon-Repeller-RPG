@@ -1,0 +1,62 @@
+body {
+  background-color: #1e3a8a; /* blue background */
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+#game {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #999; /* grey game container */
+}
+
+#stats {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  background-color: #999; /* grey stats bar */
+}
+
+#controls {
+  margin: 15px 0;
+  background-color: #999; /* grey controls area */
+}
+
+#monsterStats {
+  display: none;
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #999; /* grey monster stats */
+}
+
+button {
+  background-color: #999; /* grey buttons */
+  border: 1px solid black;
+  padding: 10px 15px;
+  margin-right: 10px;
+  cursor: pointer;
+  color: black; /* black text on buttons */
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #bbb;
+}
+
+#text {
+  background-color: black; /* only text box is black */
+  color: white;            /* white text inside text box */
+  padding: 15px;
+  margin-top: 10px;
+  border: 1px solid white;
+  text-align: left;
+  height: 200px;
+  overflow-y: auto;
+}
