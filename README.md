@@ -19,7 +19,11 @@
 - Uses **objects, arrays, variables, constants, and functions** for game interactivity.  
 - **Hidden Easter egg** feature to make gameplay more fun.  
 - Open-source and free to play!
-
+- <p align="center">
+  <a href="https://www.linkedin.com/posts/saif-ullah-086679356_100daysofcode-webdev-html-activity-7365068086124650496-bbgz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi7XCYB9BZEnIfe6w3iXt0wPbwcMDY-Q8Q">
+    <img src="https://img.shields.io/badge/View_Gameplay_Preview-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## How to Play
